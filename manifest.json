@@ -3,14 +3,19 @@
   "name": "zapisz sie",
   "version": "1.0",
 
+  "icons": {
+    "128": "icon128.png"
+  },
+
   "description": "",
 
   "permissions": [
     "tabs",
     "webRequest",
     "declarativeNetRequest",
-    "cookies"
+    "storage"
   ],
+  "action": {},
   "host_permissions": [
     "https://pacjent.erejestracja.ezdrowie.gov.pl/"
   ],
