@@ -1,0 +1,470 @@
+{
+  "list": [
+    {
+      "id": "4b571472-5f1c-4bca-93cf-8c37b0bcd0d4",
+      "startAt": "2021-06-22T17:10:00Z",
+      "duration": 10,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "0f8a5631-25a5-4cca-b903-f9bd68e038e0",
+      "startAt": "2021-06-23T17:10:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "860da8f4-238b-4182-ab9c-b1169b4cea97",
+      "startAt": "2021-06-24T16:10:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "d7fd09a2-8d9f-4b65-afb1-518f4e20fce6",
+      "startAt": "2021-06-24T16:15:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "f836a082-e94e-4db2-8e8b-c57b778fd1e7",
+      "startAt": "2021-06-24T16:20:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "26809772-b77e-4276-86cb-02b375a4e972",
+      "startAt": "2021-06-24T16:25:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "eaae4f8b-b7ee-40de-b046-129b57a2f26f",
+      "startAt": "2021-06-24T16:35:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "e5910fa5-cdc0-4403-adf6-b12bec35f39d",
+      "startAt": "2021-06-24T16:40:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "397c225e-3d3e-4dbc-b9b7-7ff31406e630",
+      "startAt": "2021-06-24T16:45:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "5b10bce0-2242-43e5-ad03-f96fa9392b67",
+      "startAt": "2021-06-24T16:50:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "58a53d8c-c42c-4de6-bfbd-26cdbe4ed41e",
+      "startAt": "2021-06-24T16:55:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "32feffc7-35d1-45d1-9014-234080550d08",
+      "startAt": "2021-06-24T17:00:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "b7b4b3dd-9130-4ca0-be16-9cf90b30cdc6",
+      "startAt": "2021-06-24T17:05:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "77bfdcc7-0a99-4dbd-9eda-890c574b7894",
+      "startAt": "2021-06-24T17:10:00Z",
+      "duration": 5,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "0d402351-f599-497b-915f-42d3ce315166",
+      "startAt": "2021-06-25T07:00:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "7fa2aba2-d315-4e30-bb86-613088bb45ea",
+      "startAt": "2021-06-26T07:00:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "a31787ca-babe-48f4-af40-2a082f020cd4",
+      "startAt": "2021-06-26T08:30:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "4c0354ec-064f-4082-80d9-29e15f80d62e",
+      "startAt": "2021-06-26T11:45:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "ae89f7ad-4e68-4388-9199-69a9164983bb",
+      "startAt": "2021-06-27T06:45:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "0eb6e0b3-576d-489f-947f-ec62de5ef771",
+      "startAt": "2021-06-27T07:00:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "3c00d1bc-f74d-4840-a930-9d743e1cdc94",
+      "startAt": "2021-06-27T08:15:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "fc013988-5613-49d2-8cfe-7455eaa6a670",
+      "startAt": "2021-06-27T08:30:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "id": "391b0a51-0435-4aec-8b67-d52f376ab4a6",
+      "startAt": "2021-06-27T11:30:00Z",
+      "duration": 15,
+      "servicePoint": {
+        "id": "b0408af7-d22b-45af-9aab-0dfc61816483",
+        "name": "SZPITAL TYMCZASOWY -SAMODZIELNY PUBLICZNY ZAKŁAD  OPIEKI ZDROWOTNEJ SZPITAL UNIWERSYTECKI W KRAKOWIE ",
+        "addressText": "ul. Kopernika  50, KRAKÓW",
+        "mobility": "STATIONARY"
+      },
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY",
+      "dose": 1,
+      "status": "ACTIVE"
+    }
+  ]
+}
+
+
+
+
+curl 'https://pacjent.erejestracja.ezdrowie.gov.pl/api/calendarSlot/4b571472-5f1c-4bca-93cf-8c37b0bcd0d4/confirm' \
+  -H 'authority: pacjent.erejestracja.ezdrowie.gov.pl' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: 1e490381-5227-4cc2-9dac-910196c91117' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: https://pacjent.erejestracja.ezdrowie.gov.pl' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://pacjent.erejestracja.ezdrowie.gov.pl/rezerwacja-wizyty' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8,pl;q=0.7' \
+  -H 'cookie: _ga=GA1.3.1812443222.1620417684; patient_sid=3aac524c-e974-455d-9c09-801a90c018a8' \
+  --data-raw '{"prescriptionId":"df063786-5209-4edc-a21e-260b77ff4df8"}' \
+  --compressed
+
+
+{
+  "calendarSlotId": "4b571472-5f1c-4bca-93cf-8c37b0bcd0d4",
+  "appointmentId": "b071f073-5ed4-47cc-851a-e8b80b54b8e5"
+}
+
+
+curl 'https://pacjent.erejestracja.ezdrowie.gov.pl/api/patient/cf9e5ef9-e183-4872-b8e9-101fe2a8ee74' \
+  -H 'authority: pacjent.erejestracja.ezdrowie.gov.pl' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="90", "Google Chrome";v="90"' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: 1e490381-5227-4cc2-9dac-910196c91117' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://pacjent.erejestracja.ezdrowie.gov.pl/wizyty' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8,pl;q=0.7' \
+  -H 'cookie: _ga=GA1.3.1812443222.1620417684; patient_sid=3aac524c-e974-455d-9c09-801a90c018a8' \
+  --compressed
+
+
+
+{
+  "patientData": {
+    "msisdn": "+48604461132",
+    "email": "pawcik@gmail.com",
+    "consentVersion": "1"
+  },
+  "prescriptions": [
+    {
+      "id": "df063786-5209-4edc-a21e-260b77ff4df8",
+      "issuedAt": "2021-04-27T17:54:54Z",
+      "expiringAt": "2021-07-25T23:59:59+02:00",
+      "eligible": true,
+      "eligibleFrom": "2021-04-27T22:00:00Z",
+      "status": "ISSUED",
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków"
+      },
+      "dosesApplied": 0,
+      "voiId": "12",
+      "vaccines": [
+        {
+          "type": "cov19.pfizer",
+          "doseCount": 2,
+          "doseDelay": 35,
+          "patientMinAge": 18,
+          "patientMaxAge": 1000
+        },
+        {
+          "type": "cov19.moderna",
+          "doseCount": 2,
+          "doseDelay": 35,
+          "patientMinAge": 18,
+          "patientMaxAge": 1000
+        },
+        {
+          "type": "cov19.astra_zeneca",
+          "doseCount": 2,
+          "doseDelay": 77,
+          "patientMinAge": 18,
+          "patientMaxAge": 69
+        },
+        {
+          "type": "cov19.johnson_and_johnson",
+          "doseCount": 1,
+          "doseDelay": 0,
+          "patientMinAge": 18,
+          "patientMaxAge": 1000
+        }
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "b071f073-5ed4-47cc-851a-e8b80b54b8e5",
+      "prescriptionId": "df063786-5209-4edc-a21e-260b77ff4df8",
+      "dose": 1,
+      "servicePoint": {
+        "id": "67e0a93d-c4d8-471d-9820-9aadc10cee74",
+        "name": "Ambulatoria Acernis",
+        "addressText": "Aleja Pokoju 4, Kraków",
+        "mobility": "STATIONARY"
+      },
+      "startAt": "2021-06-22T17:10:00Z",
+      "status": "ACTIVE",
+      "vaccineType": "cov19.pfizer",
+      "mobility": "STATIONARY"
+    }
+  ]
+}
