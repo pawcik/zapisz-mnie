@@ -3,6 +3,9 @@
   "name": "zapisz sie",
   "version": "1.0",
 
+  "author": "Paweł Jędruch",
+  "homepage_url": "https://github.com/pawcik/zapisz-mnie",
+
   "icons": {
     "128": "icon128.png"
   },
